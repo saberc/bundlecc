@@ -1,0 +1,21 @@
+id: AAA10
+typeCode: AAA
+description: ContentY
+mainGroup: free
+groups:
+  - free
+status: PUBLIC
+attributes:
+  - code: link
+    value:
+      symbolicDestination: '#!C;AAA7!#'
+      urlDest: null
+      pageDest: null
+      contentDest: AAA7
+      destType: 3
+      resourceDest: null
+    values:
+      en: Link to ContentX
+    elements: []
+    compositeelements: []
+    listelements: {}
